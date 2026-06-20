@@ -65,7 +65,7 @@
 | 🤖 **[AI WhatsApp Support Bot](https://github.com/Abdulgeni/support-bot)** | 24/7 customer support bot using RAG-powered knowledge base retrieval, multi-turn memory, and human escalation | Python · LangChain · Twilio · ChromaDB · OpenAI API |
 | 💬 **[Embeddable AI Chatbot Widget](https://github.com/Abdulgeni/chat-widget)** | RAG-powered chat widget embeddable on any website with sub-second retrieval | Next.js · TypeScript · LangChain · ChromaDB · Gemini API |
 | 🚀 **[SaaS AI Platform](https://github.com/Abdulgeni/ai-saas)** | Full multi-tenant SaaS with auth, Stripe billing, and an AI feature — production-grade from schema to deployment | Next.js 16 · Prisma · NextAuth.js · Stripe · Gemini 2.5 Flash |
-| 📧 **[AI Email Automation System]()** | Classifies incoming emails by intent, drafts replies, and notifies the team — fully automated | n8n · OpenAI API · Gmail API |
+| 📧 **[AI Email Automation System](https://github.com/Abdulgeni/email-automation)** | Classifies incoming emails by intent, drafts replies, and notifies the team — fully automated | n8n · OpenAI API · Gmail API |
 | 🧠 **[Agentic RAG](https://github.com/Abdulgeni/agentic-rag)** | Autonomous AI agent with iterative query refinement and chain-of-thought reasoning | Python · LangChain · ChromaDB · Streamlit |
 | 🛡️ **[VulnAlert Bot](https://github.com/Abdulgeni/vulnalert)** | Event-driven GitHub security monitor delivering Slack alerts within 5 seconds | n8n · Python · GitHub Webhooks · Slack API |
 
