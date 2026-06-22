@@ -18,7 +18,7 @@
 
 - 🔭 Currently building AI automation systems and RAG pipelines using LangChain, n8n, and OpenAI / Gemini API
 - 🛠️ I own the full engineering lifecycle — system design, backend APIs, frontend interfaces, and deployment
-- 🔐 ISC² Certified in Cybersecurity — every system I ship is secure by design
+- 🔐 Security-conscious engineer — OWASP Top 10 practices and secure coding applied across every project
 - 🌍 Fluent in English, Arabic, and Turkish — I work effectively with clients across MENA, Europe, and globally
 - 🎓 BSc Computer Science & Engineering, Adama Science and Technology University (expected July 2027)
 - 📫 Reach me at **abdulgeniabdulaziz@gmail.com**
@@ -75,7 +75,7 @@
 
 ### Certifications
 
-`ISC² Certified in Cybersecurity (CC)` · `Google Cloud Generative AI Fundamentals (8 badges)` · `Kaggle: Intro to Machine Learning, Python, Pandas, AI Ethics` · `freeCodeCamp: Full-Stack Developer (1,800hrs), Machine Learning with Python, JavaScript Algorithms & Data Structures, Front End Development Libraries`
+`Google Cloud Generative AI Fundamentals (8 badges)` · `Kaggle: Intro to Machine Learning, Python, Pandas, AI Ethics` · `freeCodeCamp: Full-Stack Developer (1,800hrs), Machine Learning with Python, JavaScript Algorithms & Data Structures, Front End Development Libraries`
 
 ---
 
