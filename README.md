@@ -197,7 +197,6 @@ print(me.say_hi())
 <img src="https://raw.githubusercontent.com/Abdulgeni/Abdulgeni/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </div>
 
-> ⚙️ *Snake animation auto-generates once the [snk GitHub Action](https://github.com/Platane/snk) is added to this repo's workflows — see setup note below.*
 
 ---
 
