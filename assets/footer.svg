@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Let's build something that ships. abdulgeniabdulaziz@gmail.com">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B8860B"><animate attributeName="stop-color" values="#B8860B;#E8693A;#7C3AED;#B8860B" dur="14s" repeatCount="indefinite"/></stop>
+      <stop offset="0.5" stop-color="#3B2FB8"><animate attributeName="stop-color" values="#3B2FB8;#1B3C6E;#0E6B66;#3B2FB8" dur="14s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#070B18"/>
+    </linearGradient>
+    <linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="900" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#8A6A1F"/><stop offset="0.5" stop-color="#FFF1BF"/><stop offset="1" stop-color="#C9A24B"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;300 0;0 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect y="0" width="1200" height="3" fill="url(#gold)"/>
+  <path fill="#FFFFFF" fill-opacity="0.06" d="M0 150 Q75 118 150 150 T300 150 T450 150 T600 150 T750 150 T900 150 T1050 150 T1200 150 T1350 150 T1500 150 L1500 240 L0 240 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#FFFFFF" fill-opacity="0.09" d="M0 180 Q75 152 150 180 T300 180 T450 180 T600 180 T750 180 T900 180 T1050 180 T1200 180 T1350 180 T1500 180 L1500 240 L0 240 Z">
+    <animateTransform attributeName="transform" type="translate" from="-300 0" to="0 0" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#F6D98A">
+    <circle cx="160" cy="230" r="2"><animate attributeName="cy" values="235;-10" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="230" r="2.5"><animate attributeName="cy" values="235;-10" dur="8s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="8s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="230" r="2"><animate attributeName="cy" values="235;-10" dur="10s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="10s" begin="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="230" r="2.5"><animate attributeName="cy" values="235;-10" dur="9s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="9s" begin="1s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="38" font-weight="700" letter-spacing="4" fill="url(#gold)">LET'S BUILD SOMETHING THAT SHIPS</text>
+  <path d="M600 108 L608 116 L600 124 L592 116 Z" fill="#F6E7B4"><animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></path>
+  <text x="600" y="164" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" letter-spacing="2" fill="#F5EBD0">abdulgeniabdulaziz@gmail.com  ·  Addis Ababa (UTC+3)  ·  Open to remote work</text>
+</svg>
