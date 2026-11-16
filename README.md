@@ -112,45 +112,33 @@ Everything below can be checked in the repositories.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Abdulgeni/lumen"><img src="https://opengraph.githubassets.com/1/Abdulgeni/lumen" width="100%"/></a>
-      <br/><b>🌟 Lumen</b> · <a href="https://lumen-ai-saas.vercel.app/">live demo</a><br/>
-      AI summarization SaaS: text, URL, PDF and DOCX in 20 languages. Atomic quotas, SSRF-hardened fetching, idempotent Stripe webhooks. Pre-launch, Stripe in test mode.<br/>
-      <sub>Next.js 16 · React 19 · Prisma 7 · Better Auth · Stripe · Gemini</sub>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Abdulgeni/lumen"><img src="assets/cards/lumen.svg" width="100%" alt="Lumen"/></a><br/>
+      <a href="https://lumen-ai-saas.vercel.app/">▶ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Abdulgeni/lumen">Source</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Abdulgeni/chat-widget"><img src="https://opengraph.githubassets.com/1/Abdulgeni/chat-widget" width="100%"/></a>
-      <br/><b>💬 Embeddable Chat Widget</b> · <a href="https://chat-widget-abdulgeni.vercel.app/">live demo</a><br/>
-      One script tag. Shadow DOM isolation, WebSocket streaming, PDF-grounded answers, domain allowlist, rate limiting, JWT and an admin dashboard.<br/>
-      <sub>Next.js 16 · Gemini 2.5 Flash · SQLite</sub>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Abdulgeni/chat-widget"><img src="assets/cards/chat-widget.svg" width="100%" alt="Chat Widget"/></a><br/>
+      <a href="https://chat-widget-abdulgeni.vercel.app/">▶ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Abdulgeni/chat-widget">Source</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Abdulgeni/bastion"><img src="https://opengraph.githubassets.com/1/Abdulgeni/bastion" width="100%"/></a>
-      <br/><b>🏰 Bastion</b><br/>
-      Zero-trust service mesh: SPIFFE mTLS, Ed25519 JWTs with single-use replay protection, Vault-derived keys, fail-closed.<br/>
-      <sub>296 tests · 5 gating scanners · NIST SP 800-207</sub>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Abdulgeni/bastion"><img src="assets/cards/bastion.svg" width="100%" alt="Bastion"/></a><br/>
+      <a href="https://github.com/Abdulgeni/bastion">Source</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Abdulgeni/Seller-mobile"><img src="https://opengraph.githubassets.com/1/Abdulgeni/Seller-mobile" width="100%"/></a>
-      <br/><b>🛒 Halal Market</b><br/>
-      Seller app: contract-first monorepo, offline mutation queue, idempotent 6-state payment and order machine modelled on Telebirr, CBE Birr and M-Pesa flows.<br/>
-      <sub>React Native · Expo · Zod · TanStack Query · 99 tests</sub>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Abdulgeni/Seller-mobile"><img src="assets/cards/halal-market.svg" width="100%" alt="Halal Market"/></a><br/>
+      <a href="https://github.com/Abdulgeni/Seller-mobile">Source</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Abdulgeni/al-usra-gemstone"><img src="https://opengraph.githubassets.com/1/Abdulgeni/al-usra-gemstone" width="100%"/></a>
-      <br/><b>💎 AL-USRA GEMSTONE</b> · <a href="https://al-usra-gemstone.vercel.app/">live</a><br/>
-      Bilingual (EN/AR, RTL) catalogue for untreated Ethiopian gemstones: filterable gallery, embedded Sanity CMS, inquiry forms.<br/>
-      <sub>Next.js 16 · Tailwind 4 · NextAuth · Resend</sub>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Abdulgeni/al-usra-gemstone"><img src="assets/cards/al-usra.svg" width="100%" alt="AL-USRA GEMSTONE"/></a><br/>
+      <a href="https://al-usra-gemstone.vercel.app/">▶ Live site</a> &nbsp;·&nbsp; <a href="https://github.com/Abdulgeni/al-usra-gemstone">Source</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Abdulgeni/agentic-rag"><img src="https://opengraph.githubassets.com/1/Abdulgeni/agentic-rag" width="100%"/></a>
-      <br/><b>🧠 Agentic RAG</b><br/>
-      An agent that refines its own queries iteratively and checks retrieval quality before it answers.<br/>
-      <sub>Python · LangChain · ChromaDB · Streamlit</sub>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Abdulgeni/agentic-rag"><img src="assets/cards/agentic-rag.svg" width="100%" alt="Agentic RAG"/></a><br/>
+      <a href="https://github.com/Abdulgeni/agentic-rag">Source</a>
     </td>
   </tr>
 </table>
@@ -294,6 +282,7 @@ Everything below can be checked in the repositories.
 
 </div>
 
+
 <img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
@@ -311,3 +300,5 @@ RAG & agents · Full-stack development · AI automation · AI output and code ev
 <img src="assets/divider.svg" width="100%"/>
 
 </div>
+<img src="assets/marquee.svg" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
