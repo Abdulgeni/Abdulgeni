@@ -67,8 +67,8 @@ class Abdulgeni:
 | Role | Where | When |
 |---|---|---|
 | **Independent Full Stack AI Engineer** | Self-directed products and open source | 2023 – Present |
-| **AI Trainer & Code Quality Specialist** | Postwork AI (remote): rated model outputs, reviewed code, built n8n and Airtable workflows | Apr 2025 – END_DATE |
-| **Front-end Intern → Internship Coordinator** | GoldenAge Technology PLC: leading 7 student interns on **OpsFlow**, an 8-module operations platform. I own two modules, wrote the SRS, and set up GitHub, CI and standups | 2025 – Present |
+| **AI Trainer & Code Quality Specialist** | Postwork AI (remote): rated model outputs, reviewed code, built n8n and Airtable workflows | Apr 2025 – Jan 2026 |
+| **Front-end Intern → Internship Coordinator** | GoldenAge Technology PLC: leading 7 student interns on **OpsFlow**, an 8-module operations platform. I own two modules, wrote the SRS, and set up GitHub, CI and standups | Aug 2025 – Oct 2025 |
 
 <img src="assets/divider.svg" width="100%"/>
 
